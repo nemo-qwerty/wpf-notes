@@ -1,0 +1,3 @@
+The name “Interaction” does not exist in the namespace “http://schemas.microsoft.com/expression/2010/interactivity”.
+
+Add Microsoft.Expression.Interactions AND System.Windows.Interactivity references to project. Or add Blend Interactivity for WPF v4.0
